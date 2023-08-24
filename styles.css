@@ -1,2 +1,21 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.item first-slide,.item second-slide
+,.item third-slide
+	,.item fourth-slide
+	,.item fifth-slide{
 
+			width:500px;
+			height:4000px;
+		
+	}
+	
+
+	
+
+img {
+ 	position:relative;
+	width:100%;
+	height:100%; 
+	
+	
+} 
