@@ -1,2 +1,2 @@
 //your code here
-cy.get('.carousel-control-prev').click({ multiple: true });
+cy.get('.left carousel-control').click({ multiple: true });
